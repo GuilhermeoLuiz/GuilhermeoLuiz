@@ -7,5 +7,5 @@
 🏫 Colégio Técnico da UFMG
 
 
-📞 +55 (31)98440-6210
+📞 +55 (31)98440-6210 
 📫 guilhermeoluiz04@gmail.com
