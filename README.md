@@ -8,8 +8,14 @@
 
 🌱 Atualmente Desenvolvendo Projetos Escolares 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeoLuiz&count_private=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeoLuiz&theme=dark)](https://github.com/GuilhermeoLuiz/github-readme-stats)
+<div>
+<a href="https://github.com/GuilhermeoLuiz"> 
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GuilhermeoLuiz&show_Icons-true&theme=dark&include_all_commits-truelcount_private-true"/> 
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeoLuiz&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-
-📞 +55 (31)98440-6210     📫 guilhermeoluiz04@gmail.com
+<div>
+<a href = "mailto:guilhermeoluiz04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://instagram.com/guilhermeoluiz_tg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style-for-the-badge&logo=instagram&logColor=white" target="_blank"></a>
+<a href="https://discord.gg/690689557833711617" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badg&logo=discord&logoColor=white" target="_blank"></a>
+</div>
