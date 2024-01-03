@@ -2,7 +2,7 @@
 
 ✝ Cristão
 
-📅 01/08/2004 (18 anos)
+📅 01/08/2004 (19 anos)
 
 🏫 Colégio Técnico da UFMG - Informática
 
