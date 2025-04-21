@@ -2,7 +2,9 @@
 
 ✝ Cristão
 🏫 Colégio Técnico da UFMG - Desenvolvimento de Sistemas. ✅
+
 🏫 Engenharia de Computacao UFMG. (1/10)
+
 🛠️ Escola de Belas Artes UFMG (Estagio em Wordpress). ✅
 
 <div>
