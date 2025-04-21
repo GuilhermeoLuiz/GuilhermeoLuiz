@@ -1,6 +1,7 @@
 🤖 Opa, eu sou o Guilherme Luiz!!
 
 ✝ Cristão
+
 🏫 Colégio Técnico da UFMG - Desenvolvimento de Sistemas. ✅
 
 🏫 Engenharia de Computacao UFMG. (1/10)
