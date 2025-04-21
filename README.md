@@ -1,12 +1,9 @@
 🤖 Opa, eu sou o Guilherme Luiz!!
 
 ✝ Cristão
-
-📅 01/08/2004 (19 anos)
-
-🏫 Colégio Técnico da UFMG - Informática
-
-🌱 Atualmente Desenvolvendo Projetos Escolares 
+🏫 Colégio Técnico da UFMG - Desenvolvimento de Sistemas. ✅
+🏫 Engenharia de Computacao UFMG. (1/10)
+🛠️ Escola de Belas Artes UFMG (Estagio em Wordpress). ✅
 
 <div>
 <a href="https://github.com/GuilhermeoLuiz"> 
